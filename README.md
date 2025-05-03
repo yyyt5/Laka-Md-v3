@@ -4,7 +4,7 @@
 <a><img src='https://i.ibb.co/69Np4F3/image-1744505172998.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/mrlaka"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20mrlaka-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -12,17 +12,17 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="mrlaka :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrlaka}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/lakaofc/laka-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/mrlaka/Laka-Md-v3"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mrlaka&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/mrlaka/Laka-Md-v3"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Anuwa666/gg/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrlaka/Laka-Md-v3-v3/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -40,7 +40,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://laka-md-web.onrender.com' target="_blank">
+<a href='https://Laka-Md-v3-web.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -59,29 +59,29 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anuwa666/gg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrlaka/Laka-Md-v3-v3)
 
 ---
 
 ###  Replit
-[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github.com/Anuwa666/gg)
+[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github.com/mrlaka/Laka-Md-v3-v3)
 
 ---
 
 
 ###  Railway
-[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=lakaofc)
+[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=mrlaka)
 
 ---
 
 ###  Koyeb
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Anuwa666/gg)
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/mrlaka/Laka-Md-v3-v3)
 
 ---
 
 
 ###  Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/Anuwa666/gg)
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/mrlaka/Laka-Md-v3-v3)
 
 ---
 
@@ -134,16 +134,16 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrlaka%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/mrlaka/Laka-Md-v3?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/mrlaka/Laka-Md-v3?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
+![forks](https://img.shields.io/github/forks/mrlaka/Laka-Md-v3?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/mrlaka/Laka-Md-v3?style=social)
 
-![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/mrlaka/Laka-Md-v3?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/mrlaka/Laka-Md-v3?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Laka%20ofc&color=purple&style=plastic)
 ----
 
