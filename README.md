@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LAKA-MD-V2.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LAKA-MD-V3.0.0" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.ibb.co/DfzLTBvB/image-1741179875839.jpg'/></a>
+<a><img src='https://i.ibb.co/69Np4F3/image-1744505172998.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/lakaofc/laka-md/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Anuwa666/gg/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -40,7 +40,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://lakamdweb-856c6c7aa5d7.herokuapp.com' target="_blank">
+<a href='https://laka-md-web.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -53,13 +53,18 @@ You can deploy this bot for free on the following platforms:
 
 ---
 
+### talkdrove (Free Deploy )  
+[![Deploy](https://img.shields.io/badge/Deploy-TalkDrove-blue?logo=whatsapp)](https://host.talkdrove.com/share-bot/50)
+
+---
+
 ###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lakamdbot2025/lakamd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anuwa666/gg)
 
 ---
 
 ###  Replit
-[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/lakaofc/laka-md)
+[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github.com/Anuwa666/gg)
 
 ---
 
@@ -70,13 +75,13 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ###  Koyeb
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/lakaofc/laka-md)
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Anuwa666/gg)
 
 ---
 
 
 ###  Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/lakaofc/laka-md)
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/Anuwa666/gg)
 
 ---
 
@@ -148,7 +153,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)]([https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y](https://whatsapp.com/channel/0029Vb6FEaJ5kg79LXF2gG3Z))
 
 ---
 
