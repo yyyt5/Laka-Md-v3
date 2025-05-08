@@ -53,11 +53,6 @@ You can deploy this bot for free on the following platforms:
 
 ---
 
-### talkdrove (Free Deploy )  
-[![Deploy](https://img.shields.io/badge/Deploy-TalkDrove-blue?logo=whatsapp)](https://host.talkdrove.com/share-bot/50)
-
----
-
 ###  Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrlaka/Laka-Md-v3)
 
